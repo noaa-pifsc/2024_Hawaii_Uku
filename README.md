@@ -1,5 +1,10 @@
 This repo pertains to the 2024 stock assessment update for uku (Aprion virescens) in Hawaii. This is the script necessary to process the raw Catch, CPUE, and Size data and input these into Stock Synthesis models (and process their outputs). New data were added from 2019 to 2023, but the assessment framework remains the same as the 2020 one.
 
+## Important note
+- This repository has been archived and is no longer maintained.
+- The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+- It should not be used in production systems.
+
 ## Github Disclaimer
 
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. All NOAA GitHub project code is provided on an ‘as is’ basis and the user assumes responsibility for its use. Any claims against the Department of Commerce or Department of Commerce bureaus stemming from the use of this GitHub project will be governed by all applicable Federal law. Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by the Department of Commerce. The Department of Commerce seal and logo, or the seal and logo of a DOC bureau, shall not be used in any manner to imply endorsement of any commercial product or activity by DOC or the United States Government.
